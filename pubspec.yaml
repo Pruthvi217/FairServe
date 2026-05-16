@@ -1,0 +1,43 @@
+name: fairserve
+description: "FairServe - Smart Ration Management System for efficient ration distribution."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Firebase - stable versions compatible with Flutter 3.x
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+
+  # HTTP networking
+  http: ^1.2.2
+
+  # Local storage
+  shared_preferences: ^2.3.2
+
+  # Location services
+  geolocator: ^13.0.1
+
+  # OpenStreetMap (free, no billing required)
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # UI utilities
+  intl: ^0.19.0
+  flutter_spinkit: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

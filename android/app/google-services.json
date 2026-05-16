@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128652416257",
+    "project_id": "fairserve-632e2",
+    "storage_bucket": "fairserve-632e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128652416257:android:20d9a5422d0f9aad4d3700",
+        "android_client_info": {
+          "package_name": "com.fairserve.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcPPj1g8rSGs4SZFoUIzIoUv0I8KYfDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
