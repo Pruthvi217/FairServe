@@ -146,7 +146,7 @@ flutter run
 ## Open Backend Folder
 
 ```bash
-cd backend
+cd FairServe/backend
 ```
 
 ## Install Backend Dependencies
@@ -158,7 +158,7 @@ npm install
 ## Start Backend Server
 
 ```bash
-npm start
+npm run dev
 ```
 
 OR
